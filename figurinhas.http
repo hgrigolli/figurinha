@@ -1,0 +1,4 @@
+GET http://localhost:8080/api/figurinhas
+Accept: application/json
+
+###
